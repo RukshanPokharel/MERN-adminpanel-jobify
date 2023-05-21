@@ -1,5 +1,7 @@
 # Jobify
 
+A MERN stack admin panel
+
 #### Track Your Job Search
 
 Project in Action - [Jobify](https://www.jobify.live/)
